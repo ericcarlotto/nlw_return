@@ -1,6 +1,6 @@
+import { Widget } from "./components/Widget";
 
-function App() {
- return <h1>Hello World! att</h1>
+
+export function App() {
+  return <Widget/>
 }
-
-export default App
